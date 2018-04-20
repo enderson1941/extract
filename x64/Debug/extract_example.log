@@ -1,2 +1,3 @@
 ﻿  extract_exampleDlg.cpp
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(223): warning C4090: '=': different '__unaligned' qualifiers
   extract_example.vcxproj -> D:\github\extract\extract_example\x64\Debug\extract_example.exe
