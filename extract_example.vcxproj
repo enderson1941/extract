@@ -187,6 +187,8 @@
     <ClInclude Include="CvvImage.h" />
     <ClInclude Include="extract_example.h" />
     <ClInclude Include="extract_exampleDlg.h" />
+    <ClInclude Include="Image_Process_dll.h" />
+    <ClInclude Include="Machine_vision.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />

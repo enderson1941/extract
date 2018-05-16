@@ -33,6 +33,12 @@
     <ClInclude Include="CvvImage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Image_Process_dll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Machine_vision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="extract_example.cpp">
