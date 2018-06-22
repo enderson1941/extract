@@ -5,17 +5,17 @@ d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning 
 d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
 d:\github\extract\extract_example\extract_example\image_process_dll.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
 d:\github\extract\extract_example\extract_example\machine_vision.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.h(104): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'CextractexampleDlg::feature_exc' の左辺を無視します。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.h(105): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'CextractexampleDlg::feature_exc' の左辺を無視します。
 d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(219): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
 d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(280): warning C4101: 'maxVal': ローカル変数は 1 度も使われていません。
 d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(279): warning C4101: 'minVal': ローカル変数は 1 度も使われていません。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(429): warning C4090: '=': 異なる '__unaligned' 修飾子です。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(909): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(910): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1083): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1084): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1221): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1317): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1365): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(448): warning C4090: '=': 異なる '__unaligned' 修飾子です。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(928): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(929): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1107): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1108): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1245): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1341): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1389): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
   extract_example.vcxproj -> D:\github\extract\extract_example\x64\Debug\extract_example.exe
   extract_example.vcxproj -> D:\github\extract\extract_example\x64\Debug\extract_example.pdb (Partial PDB)
