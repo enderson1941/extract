@@ -4,7 +4,7 @@
 #pragma once
 
 #ifndef __AFXWIN_H__
-	#error "ÔÚ°üº¬´ËÎÄ¼şÖ®Ç°°üº¬¡°stdafx.h¡±ÒÔÉú³É PCH ÎÄ¼ş"
+	#error "ÔÚ°E¬´ËÎÄ¼şÖ®Ç°°E¬¡°stdafx.h¡±ÒÔÉú³É PCH ÎÄ¼ş"
 #endif
 
 #include "resource.h"		// Ö÷·ûºÅ
@@ -21,7 +21,6 @@
 #include "opencv2\imgproc\imgproc.hpp"
 #include "opencv2\imgcodecs.hpp"
 #include "opencv2\core/core.hpp"
-#include "cv.h"
 //#include "opencv2\contrib\contrib.hpp"
 
 using namespace cv;
@@ -29,7 +28,7 @@ using namespace std;
 using namespace detail;
 
 // CImage_Process_dllApp
-// ÓĞ¹Ø´ËÀàÊµÏÖµÄĞÅÏ¢£¬Çë²ÎÔÄ Image_Process_dll.cpp
+// ÓĞ¹Ø´ËÀàÊµÏÖµÄĞÅÏ¢£¬ÇEÎÔÄ Image_Process_dll.cpp
 //
 
 class CImage_Process_dllApp : public CWinApp

@@ -1,21 +1,32 @@
-﻿  extract_exampleDlg.cpp
-d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\github\extract\extract_example\extract_example\image_process_dll.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\github\extract\extract_example\extract_example\machine_vision.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.h(105): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'CextractexampleDlg::feature_exc' の左辺を無視します。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(219): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(280): warning C4101: 'maxVal': ローカル変数は 1 度も使われていません。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(279): warning C4101: 'minVal': ローカル変数は 1 度も使われていません。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(448): warning C4090: '=': 異なる '__unaligned' 修飾子です。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(928): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(929): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1107): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1108): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1245): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1341): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
-d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1389): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+﻿  extract_example.cpp
+d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\image_process_dll.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\machine_vision.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\extract_exampledlg.h(105): warning C4091: 'typedef ': ignored on left of 'CextractexampleDlg::feature_exc' when no variable is declared
+  Generating Code...
+  Compiling...
+  extract_exampleDlg.cpp
+d:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\image_process_dll.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\machine_vision.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\extract_exampledlg.h(105): warning C4091: 'typedef ': ignored on left of 'CextractexampleDlg::feature_exc' when no variable is declared
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(220): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(281): warning C4101: 'maxVal': unreferenced local variable
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(280): warning C4101: 'minVal': unreferenced local variable
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(460): warning C4090: '=': different '__unaligned' qualifiers
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(942): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(943): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1255): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1351): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\github\extract\extract_example\extract_example\extract_exampledlg.cpp(1399): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
   extract_example.vcxproj -> D:\github\extract\extract_example\x64\Debug\extract_example.exe
   extract_example.vcxproj -> D:\github\extract\extract_example\x64\Debug\extract_example.pdb (Partial PDB)

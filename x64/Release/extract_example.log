@@ -1,0 +1,24 @@
+﻿  extract_example.cpp
+d:\github\extract\extract_example\extract_example\Image_Process_dll.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\Machine_vision.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\extract_exampleDlg.h(105): warning C4091: 'typedef ': ignored on left of 'CextractexampleDlg::feature_exc' when no variable is declared
+  extract_exampleDlg.cpp
+d:\github\extract\extract_example\extract_example\Image_Process_dll.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\Machine_vision.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\github\extract\extract_example\extract_example\extract_exampleDlg.h(105): warning C4091: 'typedef ': ignored on left of 'CextractexampleDlg::feature_exc' when no variable is declared
+extract_exampleDlg.cpp(220): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+extract_exampleDlg.cpp(281): warning C4101: 'maxVal': unreferenced local variable
+extract_exampleDlg.cpp(280): warning C4101: 'minVal': unreferenced local variable
+extract_exampleDlg.cpp(460): warning C4090: '=': different '__unaligned' qualifiers
+extract_exampleDlg.cpp(942): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+extract_exampleDlg.cpp(943): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+extract_exampleDlg.cpp(1117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+extract_exampleDlg.cpp(1118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+extract_exampleDlg.cpp(1255): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+extract_exampleDlg.cpp(1351): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+extract_exampleDlg.cpp(1399): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 1065 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  extract_example.vcxproj -> D:\github\extract\extract_example\x64\Release\extract_example.exe
+  extract_example.vcxproj -> D:\github\extract\extract_example\x64\Release\extract_example.pdb (Full PDB)
